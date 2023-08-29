@@ -1,4 +1,4 @@
-##Life of a Data Scientist vs. Statistician
+##  Life of a Data Scientist vs. Statistician
 
 Everyone is a data scientist!! Humans have been using data to make sense of the world around us for a long time, may it be analyzing data in a cave to invent new hand tools or building a rocket to Mars. The newest generation of data scientists uses computers to make sense of data and make decisions.
 
