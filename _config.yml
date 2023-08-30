@@ -4,14 +4,15 @@ description: "My coding adventures." # This will show up in places like twitter,
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-#email: "example@mail.com"
+email: "sbantup@ncsu.edu"
 github_username: "saratbantupalli"
 linkedin_username: "sbantup"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+# theme: "minima"
+theme: jekyll-theme-modernist
 
 rss: rss
 
