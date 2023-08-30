@@ -11,8 +11,8 @@ linkedin_username: "sbantup"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-# theme: "minima"
-theme: jekyll-theme-modernist
+theme: "minima"
+#theme: jekyll-theme-modernist - justin post
 
 rss: rss
 
