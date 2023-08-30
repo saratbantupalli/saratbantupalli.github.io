@@ -11,7 +11,7 @@ I received my *Master's in Environmental Engineering* from NC State University i
 
 I have a dog, who adopted me five years ago. We love to go on hikes, dog parks and spend our weekends together. Here is a picture of my dog **Maya** :
 
- ![picture](C:/Users/sarat/Downloads/maya.png)
+ ![maya](https://github.com/saratbantupalli/saratbantupalli.github.io/assets/106337180/16d422a6-94b5-4346-8544-773f48088220)
 
 
 
