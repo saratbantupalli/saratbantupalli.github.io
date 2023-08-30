@@ -33,4 +33,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Other
+      tags: posts #Other
