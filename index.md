@@ -11,7 +11,9 @@ I received my *Master's in Environmental Engineering* from NC State University i
 
 I have a dog, who adopted me five years ago. We love to go on hikes, dog parks and spend our weekends together. Here is a picture of my dog **Maya** :
 
-![](C:/Users/sarat/Downloads/maya.jpg)
+ ![picture](C:/Users/sarat/Downloads/maya.png)
+
+
 
 We have a bucket list of places we want to travel together:  
   + Yellowstone National Park
