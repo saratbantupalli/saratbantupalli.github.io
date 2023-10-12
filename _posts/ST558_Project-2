@@ -1,7 +1,21 @@
+# Vignette to Contact an API and Summarize Data
 
+As a vivid listener of the Marketplace podcast on National Public Radio (NPR), I have always been fascinated with US Fiscal data. Through this project, I created a vignette to *contact the US Treasury API* (Application Programming Interface) using functions to query, parse, and return well-structured data. The Treasury *data is open-source* and there is a trove of it available for the public.
 
-an explanation what you did in the project and any interesting findings
-• a reflection on the process you went through for this project. Are there things you learned programmingwise?
-What would you do differently in approaching a similar project in the future?
-• a link to the rendered github pages site (the one that looks nice github creates for you)
-and the regular repo (non-github pages site) as well!
+On the Marketplace podcast and NPR in general, I hear a lot of references to US Treasury securities and National Debt. This made me create functions to contact the Treasury API and extract data relevant to **average monthly interest rates on US Treasury Securities, National Debt, and Debt Limit**. 
+
+I focused my analysis on these three types of marketable securities: 
+  + Treasury Bills
+  + Treasury Bonds
+  + Treasury Notes
+These securities are widely known and available for purchase on the open financial markets. My analysis found that *Treasury Bonds* have the best return on investments on average. They have beaten the 2% inflation target per year for the past 2 decades and have an average yearly return of 5.8%. Interestingly I found that during an economic downturn, Treasury Bills are a good investment vehicle too! 
+
+I also looked at National Debt and Debt Limit data. Interestingly most of the national debt is in the marketable securities, the type of Treasury securities I focused my analysis on! This was a surprise to me. I tried to see if there is a correlation between Treasury securities and National Debt trends. Based on my analysis, **National Debt has a strong negative correlation with Treasury Bonds/ Notes**. 
+
+This project has been a great learning experience for me. I was able to create functions to contact APIs and analyze the data in a meaningful way. I have to admit that I had trouble zeroing in on what questions I had to ask and answer through my analysis. I have realized that it is always the hardest part of any analysis, asking the most relevant questions (since everything is open-ended). With so much available data, I was confused what I wanted to answer! Programming wise I was able to write well-structured functions and improve my pseudo-code-building capabilities. 
+
+For a future similar project, I would like to ask the questions first, and then get the relevant data. I would like to use this project and explore the US Treasury data in more depth in the future. If you are interested in the analysis, please bookmark this page, and I will update it soon. 
+
+To view my project, please check out my GitHub pages site at : <https://saratbantupalli.github.io/ST558_Project-2/>
+My repo can be reached at: <https://github.com/saratbantupalli/ST558_Project-2>
+ 
